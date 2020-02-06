@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>	
+    <TargetFramework>netstandard2.0</TargetFramework>
+    
+       <PackageId>SeleniumHelpers.Reinaard</PackageId>
+       <Version>1.0.1</Version>
+       <Authors>Rein van der Vegt</Authors>
+       <Description>A package with generic selenium functions for: clicking, filling input field, selecting values from dropdowns, etc.</Description>
+       <IsPackable>true</IsPackable>
+	
+  </PropertyGroup>
+
+</Project>
